@@ -5,6 +5,6 @@
 #### src:项目源文件
 #### test:用于测试的源文件
 #### example:使用框架的代码示例
-#### CMakeLists:顶层cmake文件
+#### CMakeLists.txt:顶层cmake文件
 #### readme.md:项目介绍文件
 #### build.sh:编译脚本
