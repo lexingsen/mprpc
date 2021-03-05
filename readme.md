@@ -3,6 +3,7 @@
 #### build:项目编译文件
 #### lib:项目库文件
 #### src:项目源文件
+#### include:项目头文件
 #### test:用于测试的源文件
 #### example:使用框架的代码示例
 #### CMakeLists.txt:顶层cmake文件
